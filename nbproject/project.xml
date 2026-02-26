@@ -3,7 +3,11 @@
     <type>org.netbeans.modules.java.j2seproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
+<<<<<<< HEAD
             <name>veiculo</name>
+=======
+            <name>Pessoa</name>
+>>>>>>> 51431b71be87972cfb766b9bdf70ef43979ceda6
             <source-roots>
                 <root id="src.dir"/>
             </source-roots>
